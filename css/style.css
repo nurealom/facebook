@@ -1,0 +1,52 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.heading{
+	 background-color:#405994; 
+
+}
+.wrapper{
+	width: 80%;
+	margin:0 auto;
+	min-height: 50px;
+	overflow: hidden;
+
+}
+.logo{
+	
+	float: left;
+
+
+}
+.logo img{
+	width: 100%;
+
+}
+.sinin{
+	float: right;
+
+}
+.forgetting{
+	color:white;
+}
+.wrapper2{
+	width: 80%;
+	margin:0 auto;
+	overflow: hidden;
+}
+.text{
+	float: left;
+	width: 37%;
+	
+
+}
+.text_help{
+}
+.form{
+	float: right;
+	width: 37%;
+}
+.dathbirth{
+	width: 200px;
+}
